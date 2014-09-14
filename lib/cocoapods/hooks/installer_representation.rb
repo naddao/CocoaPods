@@ -119,6 +119,8 @@ module Pod
 
       # @!group Private implementation
 
+      # Init a new instance
+      #
       # @param [Installer] installer @see installer
       #
       def initialize(installer)

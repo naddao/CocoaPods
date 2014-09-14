@@ -34,6 +34,8 @@ module Pod
       #
       attr_reader :block
 
+      # Init a new instance
+      #
       # @param  [String] name        @see {#name}.
       #
       # @param  [String] plugin_name @see {#plugin_name}.

@@ -8,6 +8,8 @@ module Pod
         #
         attr_reader :target
 
+        # Init a new instance
+        #
         # @param  [Target] target @see target
         #
         # @param  [String] configuration_name

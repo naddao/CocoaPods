@@ -14,6 +14,8 @@ module Pod
       #
       attr_accessor :private_headers
 
+      # Init a new instance
+      #
       # @param  [Target] target @see target
       #
       def initialize(target)
